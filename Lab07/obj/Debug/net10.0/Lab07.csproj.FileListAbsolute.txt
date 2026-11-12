@@ -1,0 +1,14 @@
+Z:\PPRG\Lab07\bin\Debug\net10.0\Lab07.exe
+Z:\PPRG\Lab07\bin\Debug\net10.0\Lab07.deps.json
+Z:\PPRG\Lab07\bin\Debug\net10.0\Lab07.runtimeconfig.json
+Z:\PPRG\Lab07\bin\Debug\net10.0\Lab07.dll
+Z:\PPRG\Lab07\bin\Debug\net10.0\Lab07.pdb
+Z:\PPRG\Lab07\obj\Debug\net10.0\Lab07.GeneratedMSBuildEditorConfig.editorconfig
+Z:\PPRG\Lab07\obj\Debug\net10.0\Lab07.AssemblyInfoInputs.cache
+Z:\PPRG\Lab07\obj\Debug\net10.0\Lab07.AssemblyInfo.cs
+Z:\PPRG\Lab07\obj\Debug\net10.0\Lab07.csproj.CoreCompileInputs.cache
+Z:\PPRG\Lab07\obj\Debug\net10.0\Lab07.dll
+Z:\PPRG\Lab07\obj\Debug\net10.0\refint\Lab07.dll
+Z:\PPRG\Lab07\obj\Debug\net10.0\Lab07.pdb
+Z:\PPRG\Lab07\obj\Debug\net10.0\Lab07.genruntimeconfig.cache
+Z:\PPRG\Lab07\obj\Debug\net10.0\ref\Lab07.dll
